@@ -1,0 +1,125 @@
+{
+    "categories": [
+        {
+            "title":"Categories For Women",
+            "data":[
+                {
+                    "title":"Hoodies & Sweatshirts",
+                    "description":"Explore Now",
+                    "image":"./images/Hoodie.jpg"
+                },
+                 {
+                            "title":"Coats & Parkas",
+                            "description":"Explore Now!",
+                            "image":"https://assets.myntassets.com/dpr_1.5,q_30,w_400,c_limit,fl_progressive/assets/images/33357128/2025/6/2/7141bd18-daa6-47c3-807d-44bcd91a18ff1748858351088-DressBerry-Women-Coats-4531748858350355-1.jpg"   
+                        },
+                        {
+                            "title":"Tees & T-Shirt",
+                            "description":"Explore Now!",
+                            "image":"https://www.jiomart.com/images/product/original/rvll7qdeuu/fabflee-women-black-typographic-pure-cotton-tshirt-xl-product-images-rvll7qdeuu-0-202208281445.jpg?im=Resize=(500,630)"   
+                        },
+                        {
+                            "title":"Shorts",
+                            "description":"Explore Now!",
+                            "image":"https://houseofekam.com/cdn/shop/files/Blue-Tropical-Tango-Cotton-Women-Shorts-shorts-House-of-Ekam.jpg?v=1734978848"   
+                        }
+            ]
+        },
+        {
+            "title":"Categories For Men",
+            "data":[
+                {
+                    "title":"Shirts",
+                    "description":"Explore Now",
+                    "image":"./images/Hoodie.jpg"
+                },
+                {
+                            "title":"Coats",
+                            "description":"Explore Now!",
+                            "image":"https://assets.myntassets.com/dpr_1.5,q_30,w_400,c_limit,fl_progressive/assets/images/33357128/2025/6/2/7141bd18-daa6-47c3-807d-44bcd91a18ff1748858351088-DressBerry-Women-Coats-4531748858350355-1.jpg"   
+                        },
+                        {
+                            "title":"T-Shirt",
+                            "description":"Explore Now!",
+                            "image":"https://urturms.com/cdn/shop/files/01_cb52f2bc-c5fa-4d25-a9aa-483f502c059d.jpg?v=1732873860"   
+                        },
+                        {
+                            "title":"Hoodies",
+                            "description":"Explore Now!",
+                            "image":"https://assets.myntassets.com/dpr_1.5,q_30,w_400,c_limit,fl_progressive/assets/images/2025/JULY/16/FyiolKTb_3340c185e0f241a0a7a60bec964a897f.jpg"   
+                        },
+                        {
+                            "title":"Jeans",
+                            "description":"Explore Now!",
+                            "image":"https://offduty.in/cdn/shop/files/IMG_4573_2_1080x.jpg?v=1759579234"
+                        }
+            ]
+        }
+    ],
+    "footer":{
+        "items":[
+            {
+                "title":"Need Help?",
+                "list":[
+                    {
+                        "label":"Contact Us",
+                        "path":"/contact-us"
+                    },
+                    {
+                        "label":"Track Order",
+                        "path":"/track-order"
+                    },
+                    {
+                        "label":"Returns & Refunds",
+                        "path":"/refunds"
+                    },
+                    {
+                        "label":"FAQs",
+                        "path":"/faq"
+                    },
+                    {
+                        "label":"Career",
+                        "path":"/career"
+                    }   
+                ]
+            },
+            {
+                "title":"Company",
+                "list":[
+                    {
+                        "label":"About Us",
+                        "path":"/about"
+                    },
+                    {
+                        "label":"Media",
+                        "path":"/media"
+                    }
+                ]
+            },
+            {
+                "title":"More Info",
+                "list":[
+                    {
+                        "label":"Terms and Conditions",
+                        "path":"/terms-conditions"
+                    },
+                    {
+                        "label":"Privacy Policy",
+                        "path":"/policies"
+                    },
+                    {
+                        "label":"Shipping Policy",
+                        "path":"/policies"
+                    }
+                ]
+            },
+            {
+                "title":"Location",
+                "description":""
+            }
+
+        ],
+        "copyright":"© 2024 ShopEASE. All rights reserved."
+    }
+        
+}
