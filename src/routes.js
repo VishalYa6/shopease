@@ -1,14 +1,25 @@
 import { createBrowserRouter } from "react-router-dom";
 import Shop from "./Shop";
 import ProductListPage from "./pages/ProductListPage/ProductListPage";
+import ShopApplicationWrapper from "./pages/ShopApplicationWrapper";
 
 export const router = createBrowserRouter([
     {
         path: "/",
-        element: <Shop />,
+        element: <ShopApplicationWrapper />,
+        children: [
+            {
+                path:"/",
+                element:<Shop/>
+            },
+            {
+                path:"/women",
+                element: <ProductListPage categoryType={'WOMEN'}/>
+            },
+            {
+                path:"/men",
+                element: <ProductListPage categoryType={'MEN'}/>
+            }
+        ]
     },
-    {
-        path: "/womens",
-        element: <ProductListPage/>
-    }
 ]);
